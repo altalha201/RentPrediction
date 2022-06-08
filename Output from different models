@@ -1,0 +1,15 @@
+1. Linear Regression
+        Mean: 2127.9129861488464
+        Standard deviation: 584.950419390992
+
+
+2. Decision Tree Regressor
+        Mean: 3022.6620994819414
+        Standard deviation: 804.7584892646295
+
+3. Random Forest Regressor
+        Mean: 2189.8164124571895
+        Standard deviation: 605.6674536972706
+        
+        
+From this 3 model Linear Regression is best for our dataset
